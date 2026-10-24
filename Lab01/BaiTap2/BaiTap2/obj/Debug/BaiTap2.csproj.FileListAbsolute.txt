@@ -1,0 +1,14 @@
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe.config
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\bin\Debug\BaiTap2.pdb
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\obj\Debug\BaiTap2.exe
+D:\LAPTRINHWIN\BaiTap2\BaiTap2\obj\Debug\BaiTap2.pdb
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe.config
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\bin\Debug\BaiTap2.pdb
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.exe
+D:\LAPTRINHWIN\Lab01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.pdb
